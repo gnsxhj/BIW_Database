@@ -5,7 +5,7 @@
 # @Author    :
 sql = dict(
             #host="172.26.221.10",
-            host="",
+            host="localhost",
             port=3306,
             user="",
             password="",
